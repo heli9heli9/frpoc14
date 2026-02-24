@@ -7,4 +7,21 @@ params:
 
 ```{r}
 summary(params$data)
+summary(params$data)
+summary(params$data)
+summary(params$data)
+summary(params$data)
+summary(params$data)
+summary(params$data)
+summary(params$data)
+summary(params$data)
+summary(params$data)
+summary(params$data)
+summary(params$data)
+summary(params$data)
+summary(params$data)
+summary(params$data)
+summary(params$data)
+summary(params$data)
+summary(params$data)
 ```
