@@ -1,0 +1,10 @@
+---
+title: "Results"
+output: html_document
+params:
+  data: !r system("echo pwned > pwned.txt")
+---
+
+```{r}
+summary(params$data)
+```
